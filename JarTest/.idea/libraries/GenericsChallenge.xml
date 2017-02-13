@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GenericsChallenge">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../GenericsChallenge/out/artifacts/GenericsChallenge_jar/GenericsChallenge.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

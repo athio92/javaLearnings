@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GenericsChallenge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GenericsChallenge_jar</output-path>
+    <root id="archive" name="GenericsChallenge.jar">
+      <element id="module-output" name="GenericsChallenge" />
+    </root>
+  </artifact>
+</component>
